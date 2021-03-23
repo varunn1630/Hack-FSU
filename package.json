@@ -1,0 +1,16 @@
+{
+  "name": "robot-arm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "leapjs": "^0.6.4",
+    "owi-robot-arm": "jbeard4/owi-robot-arm"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
